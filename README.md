@@ -1,5 +1,5 @@
  AT SDA & INE
-# Description:
+## Description:
 This script was created in Python with the goal of converting a list into a dictionary, to make it easier to organize and arrange data effectively. The program starts by representing player information as a list with sub-lists, where each sub-list represents a specific player's data such as name, position, and age. The script includes three main steps that help turn a list into a dictionary in an organized and understandable way.
 
 
